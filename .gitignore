@@ -1,0 +1,4 @@
+*.o
+RTv1
+libft/*.o
+libft/*.a
